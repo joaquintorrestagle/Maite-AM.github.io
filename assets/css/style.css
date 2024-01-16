@@ -1,5 +1,6 @@
 body {
     padding-top: 50px;
+    background-color: #f2f2f2;
 }
 
 
@@ -12,10 +13,6 @@ body {
     background-color: #f2f2f2; 
 }
 
-
-#acerca {
-    background-color: #f2f2f2;
-}
 
 #acerca p {
     margin-bottom: 50px;
