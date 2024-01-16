@@ -3,3 +3,57 @@
 .footer_color {
     background-color: #568f8f;
 }
+
+.seccion_acerca {
+    width: 1280px;
+    height: 348px;
+    background-color:#568f8f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto_acerca {
+    float: left;
+    width: 475px;
+    height: 197px;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 300px;
+    color: #FFFFFF;
+    padding-left: 10px;
+    margin-right: 150px;
+}
+
+.texto_acerca p {
+    text-align: left;
+    font: normal normal 300 16px/19px Roboto;
+   
+}
+
+.imagen_cv{
+    float: right;
+}
+
+.imagen_cv img {
+    width: 399px;
+    height: 237px;
+}
+
+
+.datos_iconos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    width: 1280px;
+    height: 348px;
+}
+
+.datos h2 {
+    color:#568f8f;
+    padding-top:75px;
+    font: normal normal medium 40px/47px Roboto;
+}
+
