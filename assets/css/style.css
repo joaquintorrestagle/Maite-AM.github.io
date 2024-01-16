@@ -1,6 +1,53 @@
+body {
+    padding-top: 50px;
+}
+
+
 /* Color navbar */
 .navbar-custom {
     background-color: #568f8f;
+}
+
+.header_color{
+    background-color: #f2f2f2; 
+}
+
+
+#acerca {
+    background-color: #f2f2f2;
+}
+
+#acerca p {
+    margin-bottom: 50px;
+}
+
+.contenedores {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+
+/* Colores títulos de las secciones */
+.titulo-acerca {
+    color: #568f8f;
+}
+
+.titulo-educacion {
+    color: #568f8f;
+}
+
+.titulo-experiencia {
+    color: #568f8f;
+}
+
+.titulo-cursos {
+    color: #568f8f;
+}
+
+.titulo-portafolio {
+    color: #568f8f;
 }
 
 /* Color del footer */
